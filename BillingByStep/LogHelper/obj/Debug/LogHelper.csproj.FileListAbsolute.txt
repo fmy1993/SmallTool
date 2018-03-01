@@ -1,0 +1,4 @@
+C:\Users\jim.fan\Documents\Visual Studio 2013\Projects\ITVolume\LogHelper\bin\Debug\LogHelper.dll
+C:\Users\jim.fan\Documents\Visual Studio 2013\Projects\ITVolume\LogHelper\bin\Debug\LogHelper.pdb
+C:\Users\jim.fan\Documents\Visual Studio 2013\Projects\ITVolume\LogHelper\obj\Debug\LogHelper.dll
+C:\Users\jim.fan\Documents\Visual Studio 2013\Projects\ITVolume\LogHelper\obj\Debug\LogHelper.pdb
